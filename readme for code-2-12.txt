@@ -1,7 +1,7 @@
 ##########################################################################
 # ---------------------------------------------------------------------------------------------------------------------
 # This is Python code to produce IPCC AR6 WGI Figures 2.12 (b)-(e)
-# Creator: Florian Ladst‰dter, Wegener Center, University of Graz, Austria
+# Creator: Florian Ladst√§dter, Wegener Center, University of Graz, Austria
 # Contact: florian.ladstaedter@uni-graz.at
 # Last updated on: July 9th, 2021
 # --------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@
 #  License: Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
 #
 # ----------------------------------------------------------------------------------------------------
-# How to cite:
+# How to cite: https://doi.org/10.5281/zenodo.6353809
 # When citing this code, please include both the code citation and the following citation for the related report component:
 ########################################################################
 
